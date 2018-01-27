@@ -45,4 +45,12 @@ public class DB {
             System.out.println("Hiba a lekérdezésben!");
         }
     }
+
+    void uj(String szerzo, String cim, String eredeti, int ev) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    void torol(int id) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }
